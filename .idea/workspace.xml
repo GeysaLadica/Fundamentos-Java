@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36cb57dc-b9d4-40fc-87ea-95516f966a29" name="Default Changelist" comment="" />
+    <list default="true" id="36cb57dc-b9d4-40fc-87ea-95516f966a29" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Banco/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Banco/ContaEspecial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lojas/ClientesVIP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lojas/ClientesVIP.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Ygmk7Ra6HITTziNGpiBjRZEB82" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,8 +31,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
     <configuration name="Lojas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -58,6 +70,7 @@
       <workItem from="1583372767384" duration="604000" />
       <workItem from="1583422950769" duration="4197000" />
       <workItem from="1583521662869" duration="814000" />
+      <workItem from="1583523140917" duration="2426000" />
     </task>
     <servers />
   </component>
@@ -97,6 +110,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state width="1236" height="320" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1583427942993" />
+    <state x="282" y="123" key="SettingsEditor" timestamp="1583524386098">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="282" y="123" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1583524386098" />
     <state x="202" y="227" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583427204673">
       <screen x="0" y="0" width="1280" height="984" />
     </state>

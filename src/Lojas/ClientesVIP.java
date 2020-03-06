@@ -6,7 +6,6 @@ public class ClientesVIP extends Clientes {
     public ClientesVIP(String nome, String email, float credito, float creditoExtra){
         super(nome, email, credito);
         this.creditoExtra = creditoExtra;
-
     }
 
     public String toString(){
