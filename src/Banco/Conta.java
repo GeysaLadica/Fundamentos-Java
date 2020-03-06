@@ -14,7 +14,7 @@ public class Conta{
     }
 
     public String toString(){
-        return "Conta do titular: " +nomeTitular + ", portador do CPF: "+cpf+", conta:  "+numeroConta +" | SALDO ATUAL: R$ "+saldo;
+        return "Conta do titular: " +nomeTitular + ", portador(a) do CPF: "+cpf+" - conta:  "+numeroConta +" | SALDO ATUAL: R$ "+saldo;
     }
 
     public void setSaldo(float saldo){
