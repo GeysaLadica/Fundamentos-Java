@@ -1,6 +1,6 @@
 package Banco;
 
-public class PIbanckTest {
+public class PIbankTest {
 
     public static void main(String [] args){
         Conta conta;
